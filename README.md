@@ -50,11 +50,6 @@ python import1.py
 Running these two python codes would insert all csv contents to the Sqlite database
 
 
-## Running on Heroku:
-
-https://crimeanalyticsdjango.herokuapp.com/
-
-### Staff user login
 
 Username : Admin
 
